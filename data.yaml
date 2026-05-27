@@ -1,0 +1,6 @@
+train: D:\Automatic-Number-Plate-Recognition--ANPR--main\ANPR\dataset\train\images
+val:  D:\Automatic-Number-Plate-Recognition--ANPR--main\ANPR\dataset\valid\images
+test: D:\Automatic-Number-Plate-Recognition--ANPR--main\ANPR\dataset\test\image
+
+nc: 1
+names: ['licence']
